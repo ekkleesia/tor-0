@@ -1,0 +1,27 @@
+src/test/test_slow-ptr_helpers.o: src/test/ptr_helpers.c \
+  src/test/ptr_helpers.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h
+
+src/test/ptr_helpers.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:

@@ -1,0 +1,18 @@
+src/lib/process/winprocess_sys.o: src/lib/process/winprocess_sys.c \
+  orconfig.h src/lib/subsys/subsys.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h \
+  src/lib/process/winprocess_sys.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h
+
+orconfig.h:
+
+src/lib/subsys/subsys.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h:
+
+src/lib/process/winprocess_sys.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h:

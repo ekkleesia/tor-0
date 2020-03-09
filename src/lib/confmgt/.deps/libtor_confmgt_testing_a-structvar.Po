@@ -1,0 +1,144 @@
+src/lib/confmgt/libtor_confmgt_testing_a-structvar.o: \
+  src/lib/confmgt/structvar.c orconfig.h src/lib/confmgt/structvar.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h \
+  src/lib/cc/torint.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h \
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+  /usr/include/bits/stdio_lim.h /usr/include/sys/types.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/time.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h \
+  /usr/include/endian.h /usr/include/bits/endian.h \
+  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+  /usr/include/sys/select.h /usr/include/bits/select.h \
+  /usr/include/bits/sigset.h /usr/include/bits/time.h \
+  /usr/include/bits/select2.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h src/lib/cc/compat_compiler.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h \
+  /usr/include/inttypes.h src/lib/conf/conftypes.h \
+  src/lib/conf/conftesting.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h \
+  src/lib/confmgt/type_defs.h src/lib/confmgt/typedvar.h \
+  src/lib/log/util_bug.h src/lib/log/log.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdarg.h \
+  src/lib/defs/logging_types.h src/lib/testsupport/testsupport.h \
+  /usr/include/syslog.h /usr/include/sys/syslog.h \
+  /usr/include/bits/syslog-path.h /usr/include/bits/syslog.h \
+  src/lib/confmgt/var_type_def_st.h
+
+orconfig.h:
+
+src/lib/confmgt/structvar.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h:
+
+src/lib/cc/torint.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+src/lib/cc/compat_compiler.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h:
+
+/usr/include/inttypes.h:
+
+src/lib/conf/conftypes.h:
+
+src/lib/conf/conftesting.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h:
+
+src/lib/confmgt/type_defs.h:
+
+src/lib/confmgt/typedvar.h:
+
+src/lib/log/util_bug.h:
+
+src/lib/log/log.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdarg.h:
+
+src/lib/defs/logging_types.h:
+
+src/lib/testsupport/testsupport.h:
+
+/usr/include/syslog.h:
+
+/usr/include/sys/syslog.h:
+
+/usr/include/bits/syslog-path.h:
+
+/usr/include/bits/syslog.h:
+
+src/lib/confmgt/var_type_def_st.h:

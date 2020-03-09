@@ -1,0 +1,47 @@
+src/lib/wallclock/approx_time.o: src/lib/wallclock/approx_time.c \
+  orconfig.h src/lib/subsys/subsys.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h \
+  src/lib/wallclock/approx_time.h /usr/include/time.h \
+  /usr/include/features.h /usr/include/stdc-predef.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h \
+  /usr/include/bits/time.h /usr/include/bits/types.h \
+  /usr/include/bits/typesizes.h /usr/include/bits/timex.h \
+  /usr/include/xlocale.h src/lib/wallclock/wallclock_sys.h
+
+orconfig.h:
+
+src/lib/subsys/subsys.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h:
+
+src/lib/wallclock/approx_time.h:
+
+/usr/include/time.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/timex.h:
+
+/usr/include/xlocale.h:
+
+src/lib/wallclock/wallclock_sys.h:

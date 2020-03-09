@@ -1,0 +1,211 @@
+src/lib/compress/libtor_compress_testing_a-compress_lzma.o: \
+  src/lib/compress/compress_lzma.c orconfig.h \
+  src/lib/compress/compress.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h \
+  src/lib/testsupport/testsupport.h src/lib/compress/compress_lzma.h \
+  src/lib/log/log.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdarg.h \
+  src/lib/cc/torint.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h \
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+  /usr/include/bits/stdio_lim.h /usr/include/sys/types.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/time.h /usr/include/endian.h /usr/include/bits/endian.h \
+  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+  /usr/include/sys/select.h /usr/include/bits/select.h \
+  /usr/include/bits/sigset.h /usr/include/bits/time.h \
+  /usr/include/bits/select2.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h src/lib/cc/compat_compiler.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h \
+  /usr/include/inttypes.h src/lib/defs/logging_types.h \
+  /usr/include/syslog.h /usr/include/sys/syslog.h \
+  /usr/include/bits/syslog-path.h /usr/include/bits/syslog.h \
+  src/lib/log/util_bug.h src/lib/malloc/malloc.h /usr/include/stdlib.h \
+  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+  /usr/include/xlocale.h /usr/include/alloca.h \
+  /usr/include/bits/stdlib-float.h /usr/include/bits/stdlib.h \
+  src/lib/thread/threads.h src/lib/lock/compat_mutex.h \
+  /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
+  /usr/include/bits/timex.h /usr/include/bits/setjmp.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdatomic.h \
+  /usr/include/lzma.h /usr/include/lzma/version.h \
+  /usr/include/lzma/base.h /usr/include/lzma/vli.h \
+  /usr/include/lzma/check.h /usr/include/lzma/filter.h \
+  /usr/include/lzma/bcj.h /usr/include/lzma/delta.h \
+  /usr/include/lzma/lzma12.h /usr/include/lzma/container.h \
+  /usr/include/lzma/stream_flags.h /usr/include/lzma/block.h \
+  /usr/include/lzma/index.h /usr/include/lzma/index_hash.h \
+  /usr/include/lzma/hardware.h
+
+orconfig.h:
+
+src/lib/compress/compress.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h:
+
+src/lib/testsupport/testsupport.h:
+
+src/lib/compress/compress_lzma.h:
+
+src/lib/log/log.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdarg.h:
+
+src/lib/cc/torint.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+src/lib/cc/compat_compiler.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h:
+
+/usr/include/inttypes.h:
+
+src/lib/defs/logging_types.h:
+
+/usr/include/syslog.h:
+
+/usr/include/sys/syslog.h:
+
+/usr/include/bits/syslog-path.h:
+
+/usr/include/bits/syslog.h:
+
+src/lib/log/util_bug.h:
+
+src/lib/malloc/malloc.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+src/lib/thread/threads.h:
+
+src/lib/lock/compat_mutex.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/timex.h:
+
+/usr/include/bits/setjmp.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdatomic.h:
+
+/usr/include/lzma.h:
+
+/usr/include/lzma/version.h:
+
+/usr/include/lzma/base.h:
+
+/usr/include/lzma/vli.h:
+
+/usr/include/lzma/check.h:
+
+/usr/include/lzma/filter.h:
+
+/usr/include/lzma/bcj.h:
+
+/usr/include/lzma/delta.h:
+
+/usr/include/lzma/lzma12.h:
+
+/usr/include/lzma/container.h:
+
+/usr/include/lzma/stream_flags.h:
+
+/usr/include/lzma/block.h:
+
+/usr/include/lzma/index.h:
+
+/usr/include/lzma/index_hash.h:
+
+/usr/include/lzma/hardware.h:

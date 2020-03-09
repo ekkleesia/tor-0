@@ -1,0 +1,202 @@
+src/lib/crypt_ops/libtor_crypt_ops_a-crypto_pwbox.o: \
+  src/lib/crypt_ops/crypto_pwbox.c /usr/include/string.h \
+  /usr/include/features.h /usr/include/stdc-predef.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h \
+  /usr/include/xlocale.h /usr/include/bits/string.h \
+  /usr/include/bits/string2.h /usr/include/endian.h \
+  /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/bits/byteswap-16.h /usr/include/stdlib.h \
+  /usr/include/bits/string3.h src/lib/arch/bytes.h src/lib/cc/torint.h \
+  orconfig.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h \
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/sys/types.h \
+  /usr/include/time.h /usr/include/sys/select.h \
+  /usr/include/bits/select.h /usr/include/bits/sigset.h \
+  /usr/include/bits/time.h /usr/include/bits/select2.h \
+  /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+  src/lib/crypt_ops/crypto_cipher.h /usr/include/stdio.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdarg.h \
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+  /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+  src/lib/crypt_ops/crypto_digest.h src/lib/defs/digest_sizes.h \
+  src/lib/malloc/malloc.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h \
+  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+  /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/stdlib.h src/lib/cc/compat_compiler.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h \
+  /usr/include/inttypes.h src/lib/testsupport/testsupport.h \
+  src/lib/crypt_ops/crypto_pwbox.h src/lib/crypt_ops/crypto_rand.h \
+  src/lib/crypt_ops/crypto_s2k.h src/lib/crypt_ops/crypto_util.h \
+  src/lib/ctime/di_ops.h src/lib/intmath/muldiv.h src/trunnel/pwbox.h \
+  src/ext/trunnel/trunnel.h src/lib/log/util_bug.h src/lib/log/log.h \
+  src/lib/defs/logging_types.h /usr/include/syslog.h \
+  /usr/include/sys/syslog.h /usr/include/bits/syslog-path.h \
+  /usr/include/bits/syslog.h
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/string3.h:
+
+src/lib/arch/bytes.h:
+
+src/lib/cc/torint.h:
+
+orconfig.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+src/lib/crypt_ops/crypto_cipher.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+src/lib/crypt_ops/crypto_digest.h:
+
+src/lib/defs/digest_sizes.h:
+
+src/lib/malloc/malloc.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+src/lib/cc/compat_compiler.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h:
+
+/usr/include/inttypes.h:
+
+src/lib/testsupport/testsupport.h:
+
+src/lib/crypt_ops/crypto_pwbox.h:
+
+src/lib/crypt_ops/crypto_rand.h:
+
+src/lib/crypt_ops/crypto_s2k.h:
+
+src/lib/crypt_ops/crypto_util.h:
+
+src/lib/ctime/di_ops.h:
+
+src/lib/intmath/muldiv.h:
+
+src/trunnel/pwbox.h:
+
+src/ext/trunnel/trunnel.h:
+
+src/lib/log/util_bug.h:
+
+src/lib/log/log.h:
+
+src/lib/defs/logging_types.h:
+
+/usr/include/syslog.h:
+
+/usr/include/sys/syslog.h:
+
+/usr/include/bits/syslog-path.h:
+
+/usr/include/bits/syslog.h:

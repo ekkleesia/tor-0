@@ -1,0 +1,158 @@
+src/app/main/core_libtor_app_testing_a-subsystem_list.o: \
+  src/app/main/subsystem_list.c orconfig.h src/app/main/subsysmgr.h \
+  src/lib/subsys/subsys.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h \
+  src/lib/cc/compat_compiler.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h \
+  /usr/include/inttypes.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h src/lib/cc/torint.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h \
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+  /usr/include/bits/stdio_lim.h /usr/include/sys/types.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/time.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h \
+  /usr/include/endian.h /usr/include/bits/endian.h \
+  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+  /usr/include/sys/select.h /usr/include/bits/select.h \
+  /usr/include/bits/sigset.h /usr/include/bits/time.h \
+  /usr/include/bits/select2.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h src/core/mainloop/mainloop_sys.h \
+  src/core/or/ocirc_event_sys.h src/core/or/or_sys.h \
+  src/core/or/orconn_event_sys.h src/feature/control/btrack_sys.h \
+  src/feature/relay/relay_sys.h src/lib/compress/compress_sys.h \
+  src/lib/crypt_ops/crypto_sys.h src/lib/err/torerr_sys.h \
+  src/lib/log/log_sys.h src/lib/net/network_sys.h \
+  src/lib/process/process_sys.h src/lib/process/winprocess_sys.h \
+  src/lib/thread/thread_sys.h src/lib/time/time_sys.h \
+  src/lib/tls/tortls_sys.h src/lib/wallclock/wallclock_sys.h \
+  src/lib/evloop/evloop_sys.h src/feature/dirauth/dirauth_sys.h \
+  /opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h
+
+orconfig.h:
+
+src/app/main/subsysmgr.h:
+
+src/lib/subsys/subsys.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdbool.h:
+
+src/lib/cc/compat_compiler.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/inttypes.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+src/lib/cc/torint.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/limits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/stddef.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+src/core/mainloop/mainloop_sys.h:
+
+src/core/or/ocirc_event_sys.h:
+
+src/core/or/or_sys.h:
+
+src/core/or/orconn_event_sys.h:
+
+src/feature/control/btrack_sys.h:
+
+src/feature/relay/relay_sys.h:
+
+src/lib/compress/compress_sys.h:
+
+src/lib/crypt_ops/crypto_sys.h:
+
+src/lib/err/torerr_sys.h:
+
+src/lib/log/log_sys.h:
+
+src/lib/net/network_sys.h:
+
+src/lib/process/process_sys.h:
+
+src/lib/process/winprocess_sys.h:
+
+src/lib/thread/thread_sys.h:
+
+src/lib/time/time_sys.h:
+
+src/lib/tls/tortls_sys.h:
+
+src/lib/wallclock/wallclock_sys.h:
+
+src/lib/evloop/evloop_sys.h:
+
+src/feature/dirauth/dirauth_sys.h:
+
+/opt/rh/llvm-toolset-8.0/root/usr/lib64/clang/8.0.1/include/__stddef_max_align_t.h:
